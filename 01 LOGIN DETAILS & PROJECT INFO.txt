@@ -1,7 +1,1 @@
-**Admin Login Details** 
-
-Username: AD123
-Password: codeastro.com
-
-
 
